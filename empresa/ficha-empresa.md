@@ -7,7 +7,7 @@
 - **Sector:** instalación y mantenimiento de redes y conectividad
 - **Actividad:** redes cableadas y Wi-Fi para pequeñas empresas y particulares, mantenimiento mensual, copias de seguridad y venta de material de red
 - **Dirección:** Avenida de la Señal 21, 41010 Sevilla
-- **NIF:** B-24681357
+- **NIF:** ESB12345674
 - **Web:** www.lumenfibra.ejemplo.com
 - **Correo:** hola@lumenfibra.ejemplo.com
 - **Teléfono:** +34 600 000 000
@@ -34,14 +34,14 @@
 ### Clínica Dental Aloe S.L.
 
 - **Tipo:** empresa
-- **NIF:** B-87654321
+- **NIF:** ESA12345674
 - **Correo:** admin@clinicadentalaloe.ejemplo.com
 - **Dirección:** Calle del Aloe 8, 41011 Sevilla
 
 ### Marta Ruiz
 
 - **Tipo:** particular
-- **NIF:** 00000000T
+- **NIF:** ES12345678Z
 - **Correo:** marta.ruiz@ejemplo.com
 - **Dirección:** Calle Azahar 5, 3ºA, 41012 Sevilla
 
